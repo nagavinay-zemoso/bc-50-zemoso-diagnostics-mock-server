@@ -1,5 +1,21 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "auth0|6304ab509143722cfce47bc9",
+      "username": "yashwanth.parupudi@zemosolabs.com",
+      "email": "yashwanth.parupudi@zemosolabs.com"
+    },
+    {
+      "id": "google-oauth2|104904289404221469938",
+      "username": "Sai Kiran Kavali",
+      "email": "saikiran.kavali@zemosolabs.com"
+    },
+    {
+      "id": "google-oauth2|115583194100144740190",
+      "username": "Nagavinay Chinthada",
+      "email": "nagavinay.chinthada@zemosolabs.com"
+    }
+  ],
   "labs": [
     {
       "id": 1,
